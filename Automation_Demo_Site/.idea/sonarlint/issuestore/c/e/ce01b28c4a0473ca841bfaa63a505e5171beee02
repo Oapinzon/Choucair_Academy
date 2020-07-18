@@ -1,0 +1,9 @@
+
+g
+java:S1858""E"getHobbies1" returns a string, there's no need to call "toString()".(ÃÅ‚Ýþÿÿÿÿ8ÒŽœÕ¤.
+e
+java:S1858"C"getGender" returns a string, there's no need to call "toString()".(¸ÓÓ¦üÿÿÿÿ8ÒŽœÕ¤.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýœ“Çúÿÿÿÿ8ÒŽœÕ¤.
+q	java:S116"PRename this field "Datos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¼Ç÷ÿÿÿÿÿ8ÒŽœÕ¤.
+g
+java:S1858&"E"getHobbies3" returns a string, there's no need to call "toString()".(Ô‘±ðÿÿÿÿÿ8ÒŽœÕ¤.
