@@ -20,9 +20,9 @@ public class Answer implements Question<Boolean>{
         boolean result;
         String nameCourse = Text.of(FormValidationPage.OUTPUT_TEXT).viewedBy(actor).asString();
         if(question.equals(nameCourse)){
-            result = true;
-        }else{
             result = false;
+        }else{
+            result = true;
         }
         return result;
     }
